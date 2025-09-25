@@ -13,3 +13,9 @@ This project detects cars and people at a traffic signal:
 git clone https://github.com/das-webber/Car-color-detection-Model.git
 cd Car-color-detection-Model
 pip install -r requirements.txt
+
+## Data
+Due to large size of folder to upload in github I can provide you the kaggle dataset link
+https://www.kaggle.com/datasets/landrykezebou/vcor-vehicle-color-recognition-dataset
+
+#Splitting the dataset into train/blue, train/other, val/blue and val/other I can provide you a script.py

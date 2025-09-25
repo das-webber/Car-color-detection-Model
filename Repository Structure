@@ -1,0 +1,11 @@
+car-color-detection/
+│── data/
+│   ├── train/         # training images (organized by color folders)
+│   ├── val/           # validation images (organized by color folders)
+│── models/
+│   └── car_color_model.h5   # saved trained model
+│── gui.py             # Tkinter GUI to preview results
+│── train.py           # script to train the CNN model
+│── detect.py          # script to run detection (cars + people + rectangles)
+│── requirements.txt   # dependencies
+│── README.md          # project documentation
